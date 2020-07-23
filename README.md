@@ -1,5 +1,7 @@
 # Unit 11 Express Homework: Note Taker
 
+I had a some troubles with this one, and I couldn't figure it out completely. It's mostly working, but definitely has bugs. 
+
 ## Description
 
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
