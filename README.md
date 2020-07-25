@@ -1,6 +1,6 @@
 # Unit 11 Express Homework: Note Taker
 
-I had a some troubles with this one, and I couldn't figure it out completely. It's mostly working, but definitely has bugs. 
+I had a some troubles with this one, and I couldn't figure it out completely. It's mostly working, but definitely has bugs. Also, heroku gave me lots of trouble, and even tho it's "deployed" the application continues to crash. 
 
 ## Description
 
